@@ -1,0 +1,66 @@
+.#navbar {
+    list-style: none;
+    font-family: serif;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+    z-index: 10;
+    width: 100%;
+    margin-top: 0;
+    padding-left: 220px;
+    margin-left: 100px;
+}
+
+li {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    display: inline;
+    font-family:cursive;
+    cursor: pointer;
+}
+
+.nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+body{
+    background-color: white;
+    font-family: cursive;
+    font-size: 20px;
+}
+marquee{
+    background-color: blue;
+    color: white;
+}
+iframe{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+a{
+    color: rebeccapurple;
+}
+
+h3, h4,#mail, h5, p{
+    color: black;
+    text-align: center;
+}
+#dav{
+    width: 250px;
+    height: 150px;
+}
+img{
+    margin-left: 70px;
+    margin-right: auto;
+    display: block;
+}
+modal{
+    cursor: pointer;
+}
